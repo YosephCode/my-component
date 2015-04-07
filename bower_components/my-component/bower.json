@@ -16,7 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^0.5",
-    "my-component": "https://github.com/YosephCode/my-component/tree/master/bower_components/my-component#^0.0.1"
+    "polymer": "Polymer/polymer#^0.5"
   }
 }
